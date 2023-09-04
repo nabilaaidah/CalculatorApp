@@ -1,0 +1,10 @@
+C:\Users\NABILA\Documents\kuliahSem5\PBKK\CalculatorTugas1\bin\Debug\CalculatorTugas1.exe.config
+C:\Users\NABILA\Documents\kuliahSem5\PBKK\CalculatorTugas1\bin\Debug\CalculatorTugas1.exe
+C:\Users\NABILA\Documents\kuliahSem5\PBKK\CalculatorTugas1\bin\Debug\CalculatorTugas1.pdb
+C:\Users\NABILA\Documents\kuliahSem5\PBKK\CalculatorTugas1\obj\Debug\CalculatorTugas1.csproj.AssemblyReference.cache
+C:\Users\NABILA\Documents\kuliahSem5\PBKK\CalculatorTugas1\obj\Debug\CalculatorTugas1.Form1.resources
+C:\Users\NABILA\Documents\kuliahSem5\PBKK\CalculatorTugas1\obj\Debug\CalculatorTugas1.Properties.Resources.resources
+C:\Users\NABILA\Documents\kuliahSem5\PBKK\CalculatorTugas1\obj\Debug\CalculatorTugas1.csproj.GenerateResource.cache
+C:\Users\NABILA\Documents\kuliahSem5\PBKK\CalculatorTugas1\obj\Debug\CalculatorTugas1.csproj.CoreCompileInputs.cache
+C:\Users\NABILA\Documents\kuliahSem5\PBKK\CalculatorTugas1\obj\Debug\CalculatorTugas1.exe
+C:\Users\NABILA\Documents\kuliahSem5\PBKK\CalculatorTugas1\obj\Debug\CalculatorTugas1.pdb
